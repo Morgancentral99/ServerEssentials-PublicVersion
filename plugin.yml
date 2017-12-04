@@ -1,0 +1,16 @@
+name: ServerEssentials
+version: 0.0.1
+author: Morgancentral99
+load: STARTUP
+main: me.morgancentral99.essentials.ServerEssentials
+commands:
+  ServerEssentials:
+    usage: ServerEssentials
+    alias: [SE, Essentials]
+  feed:
+    usage: feed
+    alias: [eat, feed]
+  gamemode:
+    usage: gamemode
+    alias: [gm]
+ 
